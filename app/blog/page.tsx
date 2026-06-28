@@ -13,10 +13,10 @@ import {
 export const metadata: Metadata = {
   title: "Blog — Tips, Guides & Tutorials",
   description:
-    "Read expert guides, tutorials, and tips about image optimization, SEO, finance, and developer tools. Free resources from ToolsHub.",
+    "Read expert guides, tutorials, and tips about image optimization, SEO, finance, and developer tools. Free resources from Toolsys.",
   alternates: { canonical: `${siteConfig.url}/blog` },
   openGraph: {
-    title: "Blog — Tips, Guides & Tutorials | ToolsHub",
+    title: "Blog — Tips, Guides & Tutorials | Toolsys",
     description:
       "Expert guides and tutorials on SEO, image optimization, finance, and developer tools.",
     url: `${siteConfig.url}/blog`,

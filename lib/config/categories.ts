@@ -33,7 +33,7 @@ export const categories: Category[] = [
       {
         question: "Are image tools free to use?",
         answer:
-          "Yes, all image tools on ToolsHub are 100% free with no sign-up required.",
+          "Yes, all image tools on Toolsys are 100% free with no sign-up required.",
       },
       {
         question: "Is my image data secure?",

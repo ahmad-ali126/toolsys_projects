@@ -6,11 +6,11 @@ import { CTASection } from "@/components/ui/CTASection";
 
 export const metadata: Metadata = {
   title: `About Us | ${siteConfig.name}`,
-  description: `Learn more about ToolsHub, our mission to build free browser-based tools, and our commitment to user privacy and lightning-fast utilities.`,
+  description: `Learn more about Toolsys, our mission to build free browser-based tools, and our commitment to user privacy and lightning-fast utilities.`,
   alternates: { canonical: `${siteConfig.url}/about` },
   openGraph: {
     title: `About Us | ${siteConfig.name}`,
-    description: `Discover how ToolsHub provides free, secure, and instant online tools for images, PDFs, SEO, and financial calculations.`,
+    description: `Discover how Toolsys provides free, secure, and instant online tools for images, PDFs, SEO, and financial calculations.`,
     url: `${siteConfig.url}/about`,
   },
 };
@@ -24,7 +24,7 @@ export default function AboutPage() {
           <Breadcrumb items={[{ label: "About Us" }]} />
           <div className="mt-8 max-w-3xl">
             <h1 className="text-3xl md:text-5xl font-bold mb-4 tracking-tight leading-tight">
-              About <span className="text-gradient-blue">ToolsHub</span>
+              About <span className="text-gradient-blue">Toolsys</span>
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
               We build lightning-fast, private, and 100% free digital utilities. No accounts, no paywalls, and no hidden catches.
@@ -45,7 +45,7 @@ export default function AboutPage() {
               Most online utilities have become bloated with annoying popups, aggressive tracking, or sudden paywalls just when you need to compress an image or convert a file.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              ToolsHub was founded to offer an alternative: a clean, responsive, and secure platform where all tools are free, processed directly in your browser, and fully functional without requiring an account.
+              Toolsys was founded to offer an alternative: a clean, responsive, and secure platform where all tools are free, processed directly in your browser, and fully functional without requiring an account.
             </p>
           </div>
           <div className="rounded-2xl border border-border bg-card p-6 md:p-8 space-y-6 shadow-sm">

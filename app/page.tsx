@@ -42,9 +42,9 @@ export const metadata: Metadata = {
 
 const homeFAQs = [
   {
-    question: "Are all tools on ToolsHub free?",
+    question: "Are all tools on Toolsys free?",
     answer:
-      "Yes! Every tool on ToolsHub is 100% free with no sign-up, no watermarks, and no hidden fees.",
+      "Yes! Every tool on Toolsys is 100% free with no sign-up, no watermarks, and no hidden fees.",
   },
   {
     question: "Do you store my files or data?",
@@ -64,12 +64,12 @@ const homeFAQs = [
   {
     question: "Can I suggest a new tool?",
     answer:
-      "Absolutely! Contact us via the contact page or email us at hello@toolshub.app with your tool suggestion.",
+      "Absolutely! Contact us via the contact page or email us at hello@Toolsys.app with your tool suggestion.",
   },
   {
-    question: "What makes ToolsHub different from other tool websites?",
+    question: "What makes Toolsys different from other tool websites?",
     answer:
-      "ToolsHub focuses on speed, privacy, and quality. Tools are browser-based (no uploads), load fast, and are designed with a clean, ad-free experience.",
+      "Toolsys focuses on speed, privacy, and quality. Tools are browser-based (no uploads), load fast, and are designed with a clean, ad-free experience.",
   },
 ];
 
@@ -108,7 +108,7 @@ const benefits = [
     icon: Users,
     title: "Always Free",
     description:
-      "ToolsHub is free forever. Our tools are funded by non-intrusive advertising.",
+      "Toolsys is free forever. Our tools are funded by non-intrusive advertising.",
   },
 ];
 
@@ -262,10 +262,10 @@ export default function HomePage() {
         <div className="container mx-auto max-w-7xl px-4">
           <div className="text-center mb-12">
             <h2 id="benefits-heading" className="text-3xl font-bold mb-3">
-              Why Choose ToolsHub?
+              Why Choose Toolsys?
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              We believe great tools should be free, fast, and private. Here&apos;s what makes ToolsHub different.
+              We believe great tools should be free, fast, and private. Here&apos;s what makes Toolsys different.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

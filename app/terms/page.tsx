@@ -5,11 +5,11 @@ import { Breadcrumb } from "@/components/ui/Breadcrumb";
 
 export const metadata: Metadata = {
   title: `Terms of Service | ${siteConfig.name}`,
-  description: `Read the Terms of Service for ToolsHub. Free web-based utilities provided on an "as-is" and "as-available" basis.`,
+  description: `Read the Terms of Service for Toolsys. Free web-based utilities provided on an "as-is" and "as-available" basis.`,
   alternates: { canonical: `${siteConfig.url}/terms` },
   openGraph: {
     title: `Terms of Service | ${siteConfig.name}`,
-    description: `Understand the terms under which you may use ToolsHub's free online utilities.`,
+    description: `Understand the terms under which you may use Toolsys's free online utilities.`,
     url: `${siteConfig.url}/terms`,
   },
 };
@@ -40,7 +40,7 @@ export default function TermsOfServicePage() {
             <Scale className="h-5 w-5 shrink-0" />
             <div>
               <strong className="font-semibold block mb-0.5">Summary of Terms</strong>
-              We build these tools to be as helpful and accessible as possible. By accessing or using ToolsHub, you agree to comply with these basic rules. We provide all tools for free, without warranty of any kind.
+              We build these tools to be as helpful and accessible as possible. By accessing or using Toolsys, you agree to comply with these basic rules. We provide all tools for free, without warranty of any kind.
             </div>
           </div>
 
@@ -49,14 +49,14 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-foreground mb-3">1. Agreement to Terms</h2>
               <p>
-                By accessing or using ToolsHub (the &quot;Platform&quot;), you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must immediately discontinue using our services.
+                By accessing or using Toolsys (the &quot;Platform&quot;), you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must immediately discontinue using our services.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-bold text-foreground mb-3">2. Description of Service</h2>
               <p>
-                ToolsHub provides access to a collection of free online tools, including image compressors, PDF utility shells, financial calculators, developer helper tools, and SEO utility systems. These services are provided free of charge, supported by online advertisements.
+                Toolsys provides access to a collection of free online tools, including image compressors, PDF utility shells, financial calculators, developer helper tools, and SEO utility systems. These services are provided free of charge, supported by online advertisements.
               </p>
             </div>
 
@@ -76,7 +76,7 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-foreground mb-3">4. Intellectual Property</h2>
               <p>
-                The designs, layout, codebase, logos, branding, and text content of ToolsHub are the intellectual property of ToolsHub. You may not copy, republish, or redistribute our assets without permission. 
+                The designs, layout, codebase, logos, branding, and text content of Toolsys are the intellectual property of Toolsys. You may not copy, republish, or redistribute our assets without permission. 
               </p>
               <p className="mt-2">
                 All client outputs (e.g. generated QR codes, compressed images, formulated spreadsheets, or JSON results) belong entirely to you. We assert zero ownership over any inputs or outputs processed using our tools.
@@ -86,14 +86,14 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-foreground mb-3">5. Disclaimer of Warranties</h2>
               <p className="bg-muted/40 p-4 rounded-xl border border-border italic text-xs leading-relaxed">
-                THE SERVICE AND ALL UTILITIES ARE PROVIDED ON AN &quot;AS-IS&quot; AND &quot;AS-AVAILABLE&quot; BASIS. TOOLSHUB DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE CALCULATIONS, FILE CONVERSIONS, OR OUTPUTS ARE 100% ACCURATE OR ERROR-FREE.
+                THE SERVICE AND ALL UTILITIES ARE PROVIDED ON AN &quot;AS-IS&quot; AND &quot;AS-AVAILABLE&quot; BASIS. Toolsys DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE CALCULATIONS, FILE CONVERSIONS, OR OUTPUTS ARE 100% ACCURATE OR ERROR-FREE.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-bold text-foreground mb-3">6. Limitation of Liability</h2>
               <p>
-                In no event shall ToolsHub or its developers be liable for any direct, indirect, incidental, special, or consequential damages (including loss of data, profits, or business interruption) arising out of or in connection with the use or inability to use the Platform, even if advised of the possibility of such damages.
+                In no event shall Toolsys or its developers be liable for any direct, indirect, incidental, special, or consequential damages (including loss of data, profits, or business interruption) arising out of or in connection with the use or inability to use the Platform, even if advised of the possibility of such damages.
               </p>
             </div>
 
@@ -107,7 +107,7 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-foreground mb-3">8. Contact Us</h2>
               <p>
-                If you have any questions or feedback regarding these terms, please contact us at <a href="mailto:hello@toolshub.app" className="text-primary hover:underline">hello@toolshub.app</a>.
+                If you have any questions or feedback regarding these terms, please contact us at <a href="mailto:hello@Toolsys.app" className="text-primary hover:underline">hello@Toolsys.app</a>.
               </p>
             </div>
           </div>

@@ -55,8 +55,8 @@ Properly compressed images directly improve:
 
 Image compression is one of the highest-ROI optimizations you can make for your website. Use our free Image Compressor tool to reduce your image sizes instantly.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Web performance and SEO experts at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Web performance and SEO experts at Toolsys.",
     publishedAt: "2024-11-15",
     updatedAt: "2024-12-01",
     category: "Image Tools",
@@ -116,8 +116,8 @@ Use our free WebP Converter tool to convert any JPG or PNG to WebP format instan
 
 If browser compatibility allows, always choose WebP. It delivers the best compression for both photos and graphics with full transparency support.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Web performance and SEO experts at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Web performance and SEO experts at Toolsys.",
     publishedAt: "2024-11-20",
     updatedAt: "2024-12-05",
     category: "Image Tools",
@@ -176,8 +176,8 @@ Use our **SIP Calculator** to see how monthly investments of ₹5,000 to ₹50,0
 
 Both strategies have merit. SIP is better for regular investors who want consistent wealth building. Lump sum works for those with large capital available and confidence in market timing.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Finance and investment experts at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Finance and investment experts at Toolsys.",
     publishedAt: "2024-11-25",
     updatedAt: "2024-12-10",
     category: "Finance Tools",
@@ -238,8 +238,8 @@ Use our free **Compound Interest Calculator** to see exactly how your money can 
 
 The key to benefiting from compound interest is time. Start investing early, reinvest returns, and let time do the heavy lifting.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Finance and investment experts at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Finance and investment experts at Toolsys.",
     publishedAt: "2024-12-01",
     updatedAt: "2024-12-15",
     category: "Finance Tools",
@@ -312,8 +312,8 @@ On-page SEO refers to all optimizations made directly on your web pages to impro
 
 On-page SEO is foundational to any SEO strategy. Work through this checklist systematically and use our free tools to implement each optimization efficiently.
     `,
-    author: "ToolsHub Team",
-    authorBio: "SEO specialists at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "SEO specialists at Toolsys.",
     publishedAt: "2024-12-05",
     updatedAt: "2024-12-20",
     category: "SEO Tools",
@@ -399,8 +399,8 @@ Our free **JSON Formatter** tool helps you:
 
 Following JSON best practices results in more maintainable code, fewer bugs, and better API documentation. Use our JSON Formatter to keep your JSON clean and valid.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Developer tools specialists at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Developer tools specialists at Toolsys.",
     publishedAt: "2024-12-10",
     updatedAt: "2024-12-25",
     category: "Developer Tools",
@@ -448,8 +448,8 @@ Use our free **Schema Markup Generator** to write schema files for FAQs, Article
 
 Technical SEO isn't a one-time task; it's a hygiene protocol. Regularly generate sitemaps, audit your robots.txt directives, and verify that metadata is correctly compiled.
     `,
-    author: "ToolsHub Team",
-    authorBio: "SEO and search index experts at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "SEO and search index experts at Toolsys.",
     publishedAt: "2024-12-15",
     updatedAt: "2024-12-25",
     category: "SEO Tools",
@@ -492,8 +492,8 @@ Use our **PDF to Word** and **Word to PDF** converter shells to handle these fil
 
 Effective document workflows require tools that are secure and accessible. By leveraging browser-based utilities, you can merge, split, and compress PDFs instantly without subscription costs or downloading heavy software.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Document productivity experts at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Document productivity experts at Toolsys.",
     publishedAt: "2024-12-20",
     updatedAt: "2024-12-28",
     category: "PDF Tools",
@@ -533,8 +533,8 @@ Use our **UUID Generator** to instantly generate single or bulk UUIDs for databa
 
 Understanding cryptographic security allows you to write secure applications. Protect your systems by generating secure keys and utilizing standardized unique IDs.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Developer tools specialists at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Developer tools specialists at Toolsys.",
     publishedAt: "2024-12-25",
     updatedAt: "2025-01-02",
     category: "Developer Tools",
@@ -577,8 +577,8 @@ Ensure your printed QR code is at least **2cm x 2cm** (0.8 inches) to guarantee 
 
 When executed correctly, QR codes link your print campaigns to digital conversions. Use our **QR Code Generator** to create clean, scan-ready QR codes in seconds.
     `,
-    author: "ToolsHub Team",
-    authorBio: "Marketing tech specialists at ToolsHub.",
+    author: "Toolsys Team",
+    authorBio: "Marketing tech specialists at Toolsys.",
     publishedAt: "2024-12-30",
     updatedAt: "2025-01-05",
     category: "Utility Tools",

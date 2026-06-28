@@ -5,7 +5,7 @@ import { Breadcrumb } from "@/components/ui/Breadcrumb";
 
 export const metadata: Metadata = {
   title: `Privacy Policy | ${siteConfig.name}`,
-  description: `Understand how ToolsHub handles your data. Almost all of our tools process files and text locally in your browser. We never store your inputs.`,
+  description: `Understand how Toolsys handles your data. Almost all of our tools process files and text locally in your browser. We never store your inputs.`,
   alternates: { canonical: `${siteConfig.url}/privacy-policy` },
   openGraph: {
     title: `Privacy Policy | ${siteConfig.name}`,
@@ -40,7 +40,7 @@ export default function PrivacyPolicyPage() {
             <ShieldCheck className="h-5 w-5 shrink-0" />
             <div>
               <strong className="font-semibold block mb-0.5">Privacy-First Architecture</strong>
-              Unlike other utilities that upload your files to remote cloud servers, the majority of the tools on ToolsHub run entirely in your web browser. Your images, documents, passwords, and JSON inputs are processed locally on your machine and never uploaded to our servers.
+              Unlike other utilities that upload your files to remote cloud servers, the majority of the tools on Toolsys run entirely in your web browser. Your images, documents, passwords, and JSON inputs are processed locally on your machine and never uploaded to our servers.
             </div>
           </div>
 
@@ -111,7 +111,7 @@ export default function PrivacyPolicyPage() {
             <div>
               <h2 className="text-xl font-bold text-foreground mb-3">7. Contact Information</h2>
               <p>
-                If you have any questions or concerns regarding our privacy practices, please contact us by email at <a href="mailto:hello@toolshub.app" className="text-primary hover:underline">hello@toolshub.app</a>.
+                If you have any questions or concerns regarding our privacy practices, please contact us by email at <a href="mailto:hello@Toolsys.app" className="text-primary hover:underline">hello@Toolsys.app</a>.
               </p>
             </div>
           </div>

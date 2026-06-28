@@ -45,12 +45,12 @@ export function Header() {
           <Link
             href="/"
             className="flex items-center gap-2 font-bold text-xl shrink-0"
-            aria-label="ToolsHub Home"
+            aria-label="Toolsys Home"
           >
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
               <Zap className="h-4 w-4" />
             </div>
-            <span className="hidden sm:block text-gradient-blue">ToolsHub</span>
+            <span className="hidden sm:block text-gradient-blue">Toolsys</span>
           </Link>
 
           {/* Desktop Nav */}

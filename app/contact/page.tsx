@@ -6,11 +6,11 @@ import { ContactForm } from "@/components/ui/ContactForm";
 
 export const metadata: Metadata = {
   title: `Contact Us | ${siteConfig.name}`,
-  description: `Get in touch with ToolsHub. Send suggestions, report bugs, ask questions, or request new free online utilities.`,
+  description: `Get in touch with Toolsys. Send suggestions, report bugs, ask questions, or request new free online utilities.`,
   alternates: { canonical: `${siteConfig.url}/contact` },
   openGraph: {
     title: `Contact Us | ${siteConfig.name}`,
-    description: `Contact the ToolsHub team to request new tools, report bugs, or give feedback. We'd love to hear from you.`,
+    description: `Contact the Toolsys team to request new tools, report bugs, or give feedback. We'd love to hear from you.`,
     url: `${siteConfig.url}/contact`,
   },
 };
@@ -54,8 +54,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-sm">Direct Email</h3>
-                    <a href="mailto:hello@toolshub.app" className="text-sm text-primary hover:underline font-medium">
-                      hello@toolshub.app
+                    <a href="mailto:hello@Toolsys.app" className="text-sm text-primary hover:underline font-medium">
+                      hello@Toolsys.app
                     </a>
                     <p className="text-xs text-muted-foreground mt-0.5">
                       For business inquires or direct support.

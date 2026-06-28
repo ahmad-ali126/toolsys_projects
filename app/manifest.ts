@@ -4,7 +4,7 @@ import { siteConfig } from "@/lib/config/seo";
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: siteConfig.name,
-    short_name: "ToolsHub",
+    short_name: "Toolsys",
     description: siteConfig.description,
     start_url: "/",
     display: "standalone",

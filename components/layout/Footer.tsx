@@ -33,7 +33,7 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
                 <Zap className="h-4 w-4" />
               </div>
-              <span className="text-gradient-blue">ToolsHub</span>
+              <span className="text-gradient-blue">Toolsys</span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed mb-6 max-w-sm">
               {siteConfig.description}
@@ -58,7 +58,7 @@ export function Footer() {
                 <X className="h-4 w-4" />
               </a>
               <a
-                href="mailto:hello@toolshub.app"
+                href="mailto:hello@toolsys.app"
                 className="p-2 rounded-lg bg-muted hover:bg-accent transition-colors"
                 aria-label="Send email"
               >
@@ -163,7 +163,7 @@ export function Footer() {
             © {currentYear} {siteConfig.name}. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Free online tools — no sign-up required.
+            Made by <strong className="text-foreground font-semibold">Ahmad Ali</strong>
           </p>
         </div>
       </div>
